@@ -1,0 +1,12 @@
+# Dependencies & Temp Files
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Logs & Local Environment
+*.log
+.env
+.env.local

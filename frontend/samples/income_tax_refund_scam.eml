@@ -1,0 +1,41 @@
+Delivered-To: taxpayer.citizen@gmail.com
+Received: by 2002:a05:6402:1102:b0:421:882:11 with SMTP id m2csp982121;
+        Mon, 31 Aug 2026 16:30:22 +0530 (IST)
+Received: from mx-outbound.hostinger-spoof-node.xyz (mx-outbound.hostinger-spoof-node.xyz. [178.62.204.99])
+        by mx.google.com with ESMTP id t19-20020a170906848dt19mr9812932ejc.92.2026.08.31.04.00.21;
+        Mon, 31 Aug 2026 04:00:22 -0700 (PDT)
+Received: from localhost (unknown [193.106.191.242])
+        by mx-outbound.hostinger-spoof-node.xyz with ESMTP id 820194;
+        Mon, 31 Aug 2026 13:59:10 +0200
+Authentication-Results: mx.google.com;
+       spf=fail (google.com: domain of donotreply@incometax.gov.in does not designate 178.62.204.99 as permitted sender) smtp.mailfrom=donotreply@incometax.gov.in;
+       dkim=fail (bad signature);
+       dmarc=fail (p=REJECT sp=REJECT dis=NONE) header.from=incometax.gov.in
+From: "Income Tax Department (E-Filing Portal)" <donotreply@incometax.gov.in>
+Reply-To: refund-disbursement@incometaxindia-refund.online
+To: taxpayer.citizen@gmail.com
+Subject: Notice of Approved Tax Refund of Rs. 42,850 for Assessment Year 2025-26 - Action Pending
+Date: Mon, 31 Aug 2026 16:29:45 +0530
+Message-ID: <ITD-REFUND-2026-98120349@incometaxindia-refund.online>
+Content-Type: text/plain; charset="UTF-8"
+
+Income Tax Department, Government of India
+Centralized Processing Centre (CPC), Bengaluru
+
+Reference: ITD/CPC/AY2025-26/REF-9821034
+Date: 31/08/2026
+
+Dear Taxpayer,
+
+We are pleased to inform you that your Income Tax Return verification for AY 2025-26 has been processed and an eligible refund amount of Rs. 42,850/- (Forty-Two Thousand Eight Hundred Fifty Only) has been approved for disbursement.
+
+However, the automated ECS credit to your bank account was returned due to mismatched IFSC / Account details in the e-Filing database.
+
+To claim your pending refund directly to your active bank account within 2 hours, please verify your PAN, Aadhaar and preferred bank account using our secure instant refund portal:
+
+=> https://incometaxindia-refund.online/claim/verify?pan=ABCDE1234F
+
+Note: Failure to claim within 48 hours will result in the refund amount being forfeited and sent to the general government treasury.
+
+Directorate of Income Tax (Systems)
+Government of India

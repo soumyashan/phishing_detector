@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+xgboost
+transformers
+torch
+sentence-transformers
+beautifulsoup4
+tldextract
+shap
+joblib
+fastapi
+uvicorn
+python-multipart

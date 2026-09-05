@@ -1,0 +1,43 @@
+Delivered-To: hod.cse@engineering-college.edu.in
+Received: by 2002:b05:6838:1204:b0:821:49a2:128 with SMTP id x4csp982134;
+        Mon, 31 Aug 2026 10:14:02 +0530 (IST)
+Received: from mail-relay-open.cloudvps-host.de (mail-relay-open.cloudvps-host.de. [89.163.142.77])
+        by mx.google.com with ESMTP id p8-20020a170906848dp8mr9128312ejc.18.2026.08.31.04.44.01;
+        Mon, 31 Aug 2026 04:44:02 -0700 (PDT)
+Received: from unknown (HELO proxy-vpn-node.mullvad-exit.org) (185.181.61.15)
+        by mail-relay-open.cloudvps-host.de with ESMTP;
+        Mon, 31 Aug 2026 11:43:20 +0200
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: domain of transitioning principal@engineering-college.edu.in does not designate 89.163.142.77 as permitted sender) smtp.mailfrom=principal@engineering-college.edu.in;
+       dkim=neutral (signature missing);
+       dmarc=fail (p=NONE sp=NONE dis=NONE) header.from=engineering-college.edu.in
+From: "Dr. Arvind Sharma (Principal)" <principal@engineering-college.edu.in>
+Reply-To: principal.office.execdesk@gmail.com
+To: hod.cse@engineering-college.edu.in
+Subject: URGENT: Confidential Administrative Assistance Required - Immediate Fund Transfer for NAAC Inspection
+Date: Mon, 31 Aug 2026 10:13:10 +0530
+Message-ID: <BEC-9821034-20260831101310@mail-relay-open.cloudvps-host.de>
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Professor,
+
+I am currently locked in an emergency closed-door meeting with the State Higher Education Directorate regarding tomorrow's NAAC Peer Team accreditation visit.
+
+I am unable to answer phone calls or attend to the college office until 4:00 PM today.
+
+We urgently need to disburse an emergency honorarium advance of Rs. 85,000 for guest logistics. Since the college treasury server is currently undergoing offline maintenance, could you please process this via immediate UPI / RTGS from the departmental contingency reserve right away?
+
+Please transfer to:
+Beneficiary: Vendor Event Logistics
+UPI ID: emergency.naac.advance@okhdfcbank
+Account No: 98120398410293
+IFSC: HDFC0001892
+
+Kindly reply directly to this email with the transaction confirmation screenshot once done. I will have the accounts office reimburse and reconcile the invoice first thing tomorrow morning.
+
+Treat this matter with utmost discretion and confidentiality.
+
+Sincerely,
+Dr. Arvind Sharma
+Principal & Chairperson
+Engineering College & Technology Campus
